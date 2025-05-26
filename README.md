@@ -14,7 +14,7 @@ This trading bot uses artificial intelligence and deep learning to predict crypt
 
 ## Requirements
 
-- Python 3.8+
+- Python  3.11.9
 - Binance account with API access
 - Required Python packages (listed in requirements.txt)
 
